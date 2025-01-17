@@ -1,0 +1,11 @@
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\ClassLibrary1\bin\Debug\net7.0\Barcodes.deps.json
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\ClassLibrary1\bin\Debug\net7.0\Barcodes.dll
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\ClassLibrary1\bin\Debug\net7.0\Barcodes.pdb
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\ClassLibrary1\obj\Debug\net7.0\Barcodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\ClassLibrary1\obj\Debug\net7.0\Barcodes.AssemblyInfoInputs.cache
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\ClassLibrary1\obj\Debug\net7.0\Barcodes.AssemblyInfo.cs
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\ClassLibrary1\obj\Debug\net7.0\Barcodes.csproj.CoreCompileInputs.cache
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\ClassLibrary1\obj\Debug\net7.0\Barcodes.dll
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\ClassLibrary1\obj\Debug\net7.0\refint\Barcodes.dll
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\ClassLibrary1\obj\Debug\net7.0\Barcodes.pdb
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\ClassLibrary1\obj\Debug\net7.0\ref\Barcodes.dll

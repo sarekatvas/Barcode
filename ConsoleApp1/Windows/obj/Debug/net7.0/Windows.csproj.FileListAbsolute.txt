@@ -1,0 +1,17 @@
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\Windows\obj\Debug\net7.0\Windows.csproj.AssemblyReference.cache
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\Windows\obj\Debug\net7.0\Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\Windows\obj\Debug\net7.0\Windows.AssemblyInfoInputs.cache
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\Windows\obj\Debug\net7.0\Windows.AssemblyInfo.cs
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\Windows\obj\Debug\net7.0\Windows.csproj.CoreCompileInputs.cache
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\Windows\bin\Debug\net7.0\Windows.deps.json
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\Windows\bin\Debug\net7.0\Windows.dll
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\Windows\bin\Debug\net7.0\Windows.pdb
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\Windows\bin\Debug\net7.0\Barcodes.dll
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\Windows\bin\Debug\net7.0\Product.dll
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\Windows\bin\Debug\net7.0\Product.pdb
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\Windows\bin\Debug\net7.0\Barcodes.pdb
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\Windows\obj\Debug\net7.0\Windows.dll
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\Windows\obj\Debug\net7.0\refint\Windows.dll
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\Windows\obj\Debug\net7.0\Windows.pdb
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\Windows\obj\Debug\net7.0\ref\Windows.dll
+C:\Users\sarka\OneDrive\Рабочий стол\чага\5сес\C#\ConsoleApp1\Windows\obj\Debug\net7.0\Windows.csproj.Up2Date

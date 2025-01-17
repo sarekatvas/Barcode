@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Windows/1.0.0": {
+        "dependencies": {
+          "Barcodes": "1.0.0",
+          "Product": "1.0.0"
+        },
+        "runtime": {
+          "Windows.dll": {}
+        }
+      },
+      "Barcodes/1.0.0": {
+        "runtime": {
+          "Barcodes.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Product/1.0.0": {
+        "dependencies": {
+          "Barcodes": "1.0.0"
+        },
+        "runtime": {
+          "Product.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Windows/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Barcodes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Product/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
